@@ -1,0 +1,11 @@
+---------------------PERGUNTA---------------> 
+O Java possui uma importante característica, 
+que é ser independente de plataforma. Explique, com suas palavras, 
+o que é essa característica e como o Java a fornece.
+
+
+------------------RESPOSTA------------------>
+
+o java é executado em maquina virtual onde 
+consegue se adaptar a qualquer SO pois é 
+executado na maquina virtal nas máquinas.

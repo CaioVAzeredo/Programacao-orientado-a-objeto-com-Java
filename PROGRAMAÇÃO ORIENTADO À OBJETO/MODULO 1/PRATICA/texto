@@ -1,0 +1,44 @@
+Para essa atividade você deverá executar as seguintes tarefas: 
+
+- Ler os programas, tentando entender seu funcionamento.  
+
+- Fazer UMA postagem no fórum, respondendo às seguintes atividades, que serão avaliadas (máximo de pontos no fórum: 1 ponto) 
+
+Atividade 1) Executar o algoritmo de criptografia, informando seu nome completo (sem caracteres acentuados). Você deve informar, na resposta desse item, qual foi o nome digitado e também qual foi o nome codificado, de acordo com o algoritmo. (0.25 pontos) 
+
+Atividade 2) Analisando a maneira como funciona a cifra de César, você deve apontar qual foi a chave utilizada para cifrar seu
+ nome. Você deve informar, na resposta desse item, qual foi a chave utilizada para cifrar seu nome, e como conseguiu encontrar 
+ o valor dessa chave. (0.5 pontos) 
+
+Atividade 3) Executar o algoritmo de descriptografia, informando o nome criptografado e a chave encontrada no item anterior. Você deve informar, na resposta desse item, qual foi o texto codificado, qual foi a chave que você utilizou, e qual foi o resultado do processo de descriptografia. (0.25 pontos) 
+
+ 
+ 
+
+IMPORTANTE:  
+
+- Responda os itens de 1 a 3 usando UMA POSTAGEM no fórum.  
+
+- Deixe claro, na sua postagem, a resposta de cada item. Siga o seguinte exemplo:  
+
+   Atividade 1) xxxxx 
+   Atividade 2) yyyyy 
+   Atividade 3) yyyyy 
+
+- Tente ser breve e objetivo na sua resposta (por favor!)  
+
+- NÃO coloque sua resposta dentro de um arquivo do word e anexe no fórum (porque se fizer isso pedirei a você que refaça a postagem, para que ela seja avaliada). 
+
+- Capriche nas suas respostas, pois a postagem será avaliada UMA ÚNICA VEZ! 
+
+- E não se esqueça, esse trabalho é individual. Se sua resposta estiver idêntica (ou muito parecida) com a resposta de algum colega ela não receberá nota. 
+
+Então agora.... Mãos à obra! 
+
+E bom trabalho!
+
+
+		RESPOSTA 
+texto = CAIO VIANA DE AZEREDO;
+Texto criptografado: VTBH OBTGT WX TSXKXWH;
+chave = 19
